@@ -1,0 +1,8 @@
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/models/Constants.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/database/callbacks/PersistMessagesCallback.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/database/DatabaseExamplePlugin.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/database/DBPlugin.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/database/DatabaseExamplePluginModule.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/models/UserObj.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/database/callbacks/ShutdownCallback.java
+/home/jimish/projects/Oizom/hivemq-plugins/hivemq-database-example-plugin/src/main/java/com/hivemq/example/database/callbacks/DBAuthenticationCallback.java

@@ -1,0 +1,6 @@
+com/hivemq/example/database/callbacks/ShutdownCallback.class
+com/hivemq/example/database/DatabaseExamplePlugin.class
+com/hivemq/example/database/callbacks/DBAuthenticationCallback.class
+com/hivemq/example/database/callbacks/PersistMessagesCallback$1.class
+com/hivemq/example/database/callbacks/PersistMessagesCallback.class
+com/hivemq/example/database/DatabaseExamplePluginModule.class
